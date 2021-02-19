@@ -1,1 +1,2 @@
-# feup-prog-scrabble
+# ScrabbleJr
+Prog: 2nd Project
